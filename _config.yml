@@ -1,6 +1,6 @@
 name: Jen Cotten Art
 favicon: null
-layout_spectrum: 0.25953
+layout_spectrum: 0
 typography_spectrum: 0.90784
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#e5dbe3'
+    - '#101413'
+    - '#453922'
+    - '#515c56'
+    - '#93aba6'
   brandStrength: 0
   lightness: 0.060623231343925
   saturation: 0.817698503145948
