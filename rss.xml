@@ -4,8 +4,15 @@
         <description><![CDATA[Jen Cotten Art]]></description>
         <link>https://thegrid.ai/jen-cotten-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 05:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 05:34:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jen-cotten-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8a34f9b-d458-4742-8b29-465b7da70821.jpg">]]></description>
+            <link>https://thegrid.ai/jen-cotten-art/12cd4f9a-b9f3-416f-b708-e81702b49c8d/index.html</link>
+            <guid isPermaLink="false">12cd4f9a-b9f3-416f-b708-e81702b49c8d</guid>
+            <pubDate>Wed, 09 Mar 2016 05:33:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4043c82e-dfb2-4e5e-884b-73b8e58bb915.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/jen-cotten-art/14a4210e-668a-4975-9a6c-dd46d9e0d494/index.html</link>
             <guid isPermaLink="false">14a4210e-668a-4975-9a6c-dd46d9e0d494</guid>
             <pubDate>Wed, 09 Mar 2016 05:23:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8a34f9b-d458-4742-8b29-465b7da70821.jpg">]]></description>
-            <link>https://thegrid.ai/jen-cotten-art/12cd4f9a-b9f3-416f-b708-e81702b49c8d/index.html</link>
-            <guid isPermaLink="false">12cd4f9a-b9f3-416f-b708-e81702b49c8d</guid>
-            <pubDate>Wed, 09 Mar 2016 05:12:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
